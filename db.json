@@ -1,0 +1,14 @@
+{
+  "user": [
+    { "id": 1, "name": "Alice Johnson", "email": "alice.johnson@example.com", "phone": "123-456-7890" },
+    { "id": 2, "name": "Bob Smith", "email": "bob.smith@example.com", "phone": "987-654-3210" },
+    { "id": 3, "name": "Charlie Brown", "email": "charlie.brown@example.com", "phone": "456-789-0123" },
+    { "id": 4, "name": "Diana Prince", "email": "diana.prince@example.com", "phone": "321-654-9870" },
+    { "id": 5, "name": "Ethan Hunt", "email": "ethan.hunt@example.com", "phone": "654-321-0987" },
+    { "id": 6, "name": "Fiona Clark", "email": "fiona.clark@example.com", "phone": "789-012-3456" },
+    { "id": 7, "name": "George Miller", "email": "george.miller@example.com", "phone": "210-987-6543" },
+    { "id": 8, "name": "Hannah Lee", "email": "hannah.lee@example.com", "phone": "543-210-6789" },
+    { "id": 9, "name": "Ian Wright", "email": "ian.wright@example.com", "phone": "876-543-2109" },
+    { "id": 10, "name": "Julia Adams", "email": "julia.adams@example.com", "phone": "098-765-4321" }
+  ]
+} 
